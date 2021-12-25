@@ -1,0 +1,31 @@
+{
+    "company_ID" : 1,
+    "company_Name" : "Sony",
+    "Sector" : "Private",
+    "Website" : "sony.com",
+    "Email" : "sony@gmail.com"
+}
+
+{
+    "company_ID" : 2,
+    "company_Name" : "Dell",
+    "Sector" : "Private",
+    "Website" : "Dell.com",
+    "Email" : "Dell@gmail.com"
+}
+
+{
+    "company_ID" : 3,
+    "company_Name" : "ONGC",
+    "Sector" : "Government",
+    "Website" : "ONGC.in",
+    "Email" : "ONGC@gmail.com"
+}
+
+{
+    "company_ID" : 4,
+    "company_Name" : "Pyse",
+    "Sector" : "Private",
+    "Website" : "pyse.in",
+    "Email" : "pyse.co.in"
+}
